@@ -1,7 +1,7 @@
 # Network Traffic Anomaly Detection
 
-## Project Overview
-This project is to compare anomaly detection in network traffic between supervised and unsupervised learning. The primary dataset is CICIDS2017, a dataset from the Canadian Institute for Cybersecurity.
+
+I did this project is to compare anomaly detection in network traffic between supervised and unsupervised learning. The primary dataset is CICIDS2017, a dataset from the Canadian Institute for Cybersecurity.
 
 ## Goals
 - Detect network attacks and anomalies in traffic data
